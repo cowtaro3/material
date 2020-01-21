@@ -7,7 +7,7 @@
     width: 100vw;
     background: rgb(226, 80, 80);
     color: white;
-    padding: 1rem;
+    padding: 0.5rem 0;
     box-shadow: 0px -3px 6px rgba(0, 0, 0, 0.5);
 }
 
