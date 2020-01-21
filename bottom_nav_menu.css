@@ -7,7 +7,7 @@
     width: 100vw;
     background: rgb(226, 80, 80);
     color: white;
-    padding: 0.5rem 0;
+    padding: 0.25rem 0;
     box-shadow: 0px -3px 6px rgba(0, 0, 0, 0.5);
 }
 
@@ -30,10 +30,10 @@
 }
 
 .bottom_nav_menu .bottom_nav_menu_box .top_nav_menu_column a img {
-    width: 30px;
+    width: 25px;
 }
 
 .bottom_nav_menu .bottom_nav_menu_box .top_nav_menu_column a h1 {
     color: white;
-    font-size: 1rem;
+    font-size: 0.85rem;
 }
